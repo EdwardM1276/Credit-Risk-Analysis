@@ -1,6 +1,5 @@
-To help you document this project professionally on GitHub, here is a structured README.md template. It balances technical depth with business impact, making it attractive to both recruiters and fellow developers.
-
 Credit Risk Analysis & Prescriptive Lending Strategy
+
 ## Project Overview
 This project evaluates a dataset of 1,000 credit applicants to identify the primary drivers of loan default. By moving beyond simple descriptive statistics, this analysis identifies high-risk demographic clusters and proposes a set of prescriptive lending constraints to mitigate financial exposure.
 
